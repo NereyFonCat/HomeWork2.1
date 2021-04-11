@@ -5,6 +5,20 @@ VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork2.1", "HomeWork2.1\HomeWork2.1.csproj", "{10818438-9EBA-408B-BA11-CAEC74CF24F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork2.2", "HomeWork2.2\HomeWork2.2.csproj", "{546B7E62-E6F9-47F5-A430-6485BE20FD33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork2.3", "HomeWork2.3\HomeWork2.3.csproj", "{82CFA3A3-2FC9-4E21-A26A-3FD95C68596B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork2.4", "HomeWork2.4\HomeWork2.4.csproj", "{515EE9EB-FB00-4440-8B55-2A1F69E7A570}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork2.5", "HomeWork2.5\HomeWork2.5.csproj", "{51552772-6AEE-4E47-99EA-33A69434BBC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork2.6", "HomeWork2.6\HomeWork2.6.csproj", "{7EEA2155-867D-45D4-B6AA-DE1997FB4DAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork2.7a", "HomeWork2.7a\HomeWork2.7a.csproj", "{DDA052A3-F96A-4176-9D06-D4BE99D7FD8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork2.7b", "HomeWork2.7b\HomeWork2.7b.csproj", "{CC88A46E-8693-4B1E-A4F2-063D26FE206F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +29,34 @@ Global
 		{10818438-9EBA-408B-BA11-CAEC74CF24F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10818438-9EBA-408B-BA11-CAEC74CF24F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10818438-9EBA-408B-BA11-CAEC74CF24F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{546B7E62-E6F9-47F5-A430-6485BE20FD33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{546B7E62-E6F9-47F5-A430-6485BE20FD33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{546B7E62-E6F9-47F5-A430-6485BE20FD33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{546B7E62-E6F9-47F5-A430-6485BE20FD33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82CFA3A3-2FC9-4E21-A26A-3FD95C68596B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82CFA3A3-2FC9-4E21-A26A-3FD95C68596B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82CFA3A3-2FC9-4E21-A26A-3FD95C68596B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82CFA3A3-2FC9-4E21-A26A-3FD95C68596B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{515EE9EB-FB00-4440-8B55-2A1F69E7A570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515EE9EB-FB00-4440-8B55-2A1F69E7A570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515EE9EB-FB00-4440-8B55-2A1F69E7A570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515EE9EB-FB00-4440-8B55-2A1F69E7A570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51552772-6AEE-4E47-99EA-33A69434BBC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51552772-6AEE-4E47-99EA-33A69434BBC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51552772-6AEE-4E47-99EA-33A69434BBC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51552772-6AEE-4E47-99EA-33A69434BBC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EEA2155-867D-45D4-B6AA-DE1997FB4DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EEA2155-867D-45D4-B6AA-DE1997FB4DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EEA2155-867D-45D4-B6AA-DE1997FB4DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EEA2155-867D-45D4-B6AA-DE1997FB4DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDA052A3-F96A-4176-9D06-D4BE99D7FD8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA052A3-F96A-4176-9D06-D4BE99D7FD8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA052A3-F96A-4176-9D06-D4BE99D7FD8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA052A3-F96A-4176-9D06-D4BE99D7FD8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC88A46E-8693-4B1E-A4F2-063D26FE206F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC88A46E-8693-4B1E-A4F2-063D26FE206F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC88A46E-8693-4B1E-A4F2-063D26FE206F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC88A46E-8693-4B1E-A4F2-063D26FE206F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
